@@ -1,1 +1,3 @@
 # generative-model
+
+GAE, DDPM
